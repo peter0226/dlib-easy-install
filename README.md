@@ -3,7 +3,7 @@
 Este repositorio contiene los archivos **.whl** precompilados de **dlib** para Windows y Python 3.7 - 3.12 en arquitecturas x64, permitiendo su instalación sin necesidad de compilar desde el código fuente ni instalar **CMake**.
 
 ## Requisitos previos
-- **Python** (versiones 3.7 a 3.12)
+- **Python** (versiones 3.7 a 3.13)
 - **pip** actualizado:  
   ```sh
   python -m pip install --upgrade pip
